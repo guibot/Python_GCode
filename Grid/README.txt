@@ -16,6 +16,9 @@ By using this software, you acknowledge and accept the risks involved.
 
 **************************************************************************************
 
+Always check your generated GCODE on a simulator before loading it on your printer.
+I normally use [NCViewer](https://ncviewer.com/)
+
 Available Parameters:
 
 width=100,
