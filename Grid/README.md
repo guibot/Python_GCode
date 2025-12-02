@@ -1,5 +1,7 @@
 Simple Dot Grid Python GCODE Generator for 3D / Bio / Printer
 
+![Grid Generator](sample.gif)
+
 **************************************************************************************
 
 DISCLAIMER
