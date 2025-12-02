@@ -1,6 +1,6 @@
 Python Img to Grid GCODE Generator
 
-![Heart Dots](heart_dots.jpg)
+![Heart Micro Dots](heart_dots.jpg)
 
 **********************************************************
 
@@ -38,6 +38,6 @@ Python_ImageToGrid_APP.py
 
 This script creates a webapp at http://127.0.0.1:5000/
 
-![Python_ImgToGrid_WebAPP](ImgToGrid_WebAPP.jpg)
+![Python ImgToGrid WebAPP](ImgToGrid_WebAPP.jpg)
 
 
