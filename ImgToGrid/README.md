@@ -4,6 +4,11 @@ Python Img to Grid GCODE Generator
 
 **********************************************************
 
+Always check your generated GCODE on a simulator before loading it on your printer. I normally use NCViewer
+
+************************************************************
+
+
 DISCLAIMER
 
 This software is an experimental GCODE generator created specifically for a custom Bio Printer. It is intended for research and personal use only.
@@ -39,5 +44,3 @@ Python_ImageToGrid_APP.py
 This script creates a webapp at http://127.0.0.1:5000/
 
 ![Python ImgToGrid WebAPP](ImgToGrid_WebAPP.jpg)
-
-
