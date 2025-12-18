@@ -4,7 +4,8 @@ Python Img to Grid GCODE Generator
 
 **********************************************************
 
-Always check your generated GCODE on a simulator before loading it on your printer. I normally use NCViewer
+Always check your generated GCODE on a simulator before loading it on your printer. I normally use [NCViewer](https://ncviewer.com/)
+
 
 ************************************************************
 
